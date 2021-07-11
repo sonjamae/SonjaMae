@@ -1,5 +1,9 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top_langs>/?username=<SonjaMae>" />
+
 ### 🌱🌱🌱
+<a href="https://github.com/sonjamae/sonjamae">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjamae" />
+</a>
+
 
 
 <!--
