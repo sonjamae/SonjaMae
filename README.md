@@ -1,5 +1,5 @@
 
-<!-- [![Header](https://github.com/SonjaMae/SonjaMae.github.io/blob/357dc6ab5b1207e828f8984739467ceceed9feae/dark%20logo.png "Header")](https://github.com/sonjamae/sonjamae) -->
+[![Header](https://github.com/SonjaMae/SonjaMae.github.io/blob/357dc6ab5b1207e828f8984739467ceceed9feae/dark%20logo.png "Header")](https://github.com/sonjamae/sonjamae)
 
 
 ### 🌱🌱🌱
