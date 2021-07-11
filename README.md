@@ -1,6 +1,6 @@
 [![Header](https://github.com/SonjaMae/SonjaMae.github.io/blob/d0583a330b6d38c6db0f59df2ede02bd836a30ff/behance%20banner.png "Header")](https://github.com/sonjamae/sonjamae)
 
-# 🌒   🌓    🌔    🌕    🌖    🌗    🌘  
+## 🌒   🌓    🌔    🌕    🌖    🌗    🌘  
 
 <a href="https://github.com/sonjamae/sonjamae">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonjamae&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
